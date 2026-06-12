@@ -32,7 +32,13 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ls          # Listei os arquivos e encontrei o readme.
 cat readme  # Li o conteúdo: a senha estava lá! 
 ```
-**Password Level 1:** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If` 
+**Password Level 1:** 
+
+<details>
+  <summary>Clique para ver a senha (Spoiler)</summary>
+  <code>ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If</code>
+</details>
+
 
 
 
@@ -76,7 +82,12 @@ cat ./- # . significa diretório atual
         # / é o separador das pastas
         # - é o nome do arquivo
 ```
-**Password Level 2:** `263JGJPfgU6LtdEvgfWU1XP5yac29mFx ` 
+**Password Level 2:** 
+
+<details>
+  <summary>Clique para ver a senha (Spoiler)</summary>
+  <code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code>
+</details>
 
 
 
@@ -123,7 +134,11 @@ Foi ai que puderam  ser usada algumas técnicas para driblar esse nome do arquiv
 cat ./--spaces\ in\ this\ filename-- 
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
-Password Level:  `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
+**Password Level 3:**
+<details>
+  <summary>Clique para ver a senha (Spoiler)</summary>
+  <code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code>
+</details>
 
 Etapa 3: Login  | Etapa 3: Exploração |
 |:---:|:---:|
