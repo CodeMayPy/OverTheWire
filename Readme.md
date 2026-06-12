@@ -6,10 +6,11 @@
 Este repositório é o registro da minha evolução em segurança ofensiva e domínio do terminal Linux, resolvendo os desafios do OverTheWire. Tudo comentado e com explicações, desde os erros até os acertos e conceitos básicos, além de um repósitorio é o meu Relatório do Chuntaro com os resumos e explicações dos conceitos aprendidos.
 
 ## Sumário de Explorações
-0. [Nível 0](#nivel-0)
-1. [Nível 1](#nivel-1)
+0. [Nível 0](#nível-0)
+1. [Nível 1](#nível-1)
+2. [Nível 2](#nível-2)
 
-# Nivel 0
+# Nível 0
 O objetivo deste nível é fazer login no jogo usando o SSH. O anfitrião ao qual eu preciso me conectar é bandit.labs.overthewire.org, na porta 2220. O nome de usuário é ***bandit0*** e a senha é `bandit0`. 
 
 🔍 **A Primeira Falha (O Aprendizado):**
@@ -57,7 +58,7 @@ O ssh não é apenas um comando, ele é como um carro blindado que permite o env
 [↑ Voltar ao topo](#topo)
 
 
-# Nivel 1
+# Nível 1
 O objetivo deste nível é abrir um arquivo chamado `-` localizado no diretório home.
 
 🔍 **A Primeira Falha (O Aprendizado):**
@@ -105,7 +106,7 @@ find # procura o arquivo
 
 [↑ Voltar ao topo](#topo)
 
-# Nivel 2
+# Nível 2
 O objetivo deste nível é abrir um arquivo chamado ` --spaces in this filename--` localizado no diretório home.
 
 🔍 A Primeira Falha (O Aprendizado):<br>
